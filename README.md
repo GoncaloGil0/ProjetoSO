@@ -1,5 +1,7 @@
 # ProjetoSO
 
+![SO](https://img.shields.io/badge/Faculdade-SO-yellowgreen)
+![Nota](https://img.shields.io/badge/Nota%20final-%3F-yellowgreen)
 
 Projeto final realizado no âmbito da disciplina de Sistemas Operativos.
 
