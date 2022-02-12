@@ -1,7 +1,7 @@
 # ProjetoSO
 
 ![SO](https://img.shields.io/badge/Faculdade-SO-green)
-![Nota](https://img.shields.io/badge/Nota%20final-%3F-green)
+![Nota](https://img.shields.io/badge/Nota%20final-14-green)
 ![GitHub language count](https://img.shields.io/github/languages/count/GoncaloGil0/ProjetoSO)
 
 ## Descrição
