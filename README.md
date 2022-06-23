@@ -1,4 +1,4 @@
-# ProjetoSO
+# SO - Sistemas Operativos
 
 ![SO](https://img.shields.io/badge/Faculdade-SO-green)
 ![Nota](https://img.shields.io/badge/Nota%20final-14-green)
